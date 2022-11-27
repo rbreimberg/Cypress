@@ -1,54 +1,54 @@
 {
     "signup": {
-        "name": "Rodrigo Barbosa",
+        "nome": "Rodrigo Barbosa",
         "cpf": "00000014141",
         "email": "rodrigobarbosa@hotmail.com",
         "whatsapp": "11999999999",
-        "address": {
-            "postalcode": "06530101",
-            "street": "Rua Onofre",
-            "number": "27",
-            "details": "Ap 2",
-            "district": "Vila Campos (Fazendinha)",
-            "city_state": "Santana de Parnaíba/SP"
+        "endereco": {
+            "cep": "06530101",
+            "rua": "Rua Onofre",
+            "numero": "27",
+            "complemento": "Ap 2",
+            "bairro": "Vila Campos (Fazendinha)",
+            "cidade_SP": "Santana de Parnaíba/SP"
 
         },
-        "delivery_method": "Moto",
+        "metodo_entrega": "Moto",
         "cnh": "cnh-digital.jpg"
 
     },
     "cpf_inv": {
-        "name": "Bento Zuzano",
+        "nome": "Bento Zuzano",
         "cpf": "x000000141AA",
         "email": "rodrigobarbosa@hotmail.com",
         "whatsapp": "11999999999",
-        "address": {
-            "postalcode": "06530101",
-            "street": "Rua Onofre",
-            "number": "27",
-            "details": "Ap 2",
-            "district": "Vila Campos (Fazendinha)",
-            "city_state": "Santana de Parnaíba/SP"
+        "endereco": {
+            "cep": "06530101",
+            "rua": "Rua Onofre",
+            "numero": "27",
+            "complemento": "Ap 2",
+            "bairro": "Vila Campos (Fazendinha)",
+            "cidade_SP": "Santana de Parnaíba/SP"
 
         },
-        "delivery_method": "Moto",
+        "metodo_entrega": "Moto",
         "cnh": "cnh-digital.jpg"
     },
-    "email_inv": {
-        "name": "Rodrigo Barbosa",
+    "email_invalido": {
+        "nome": "Rodrigo Barbosa",
         "cpf": "00000014141",
         "email": "rodrigo.com.br",
         "whatsapp": "11999999999",
-        "address": {
-            "postalcode": "06530101",
-            "street": "Rua Onofre",
-            "number": "27",
-            "details": "Ap 2",
-            "district": "Vila Campos (Fazendinha)",
-            "city_state": "Santana de Parnaíba/SP"
+        "endereco": {
+            "cep": "06530101",
+            "rua": "Rua Onofre",
+            "numero": "27",
+            "complemento": "Ap 2",
+            "bairro": "Vila Campos (Fazendinha)",
+            "cidade_SP": "Santana de Parnaíba/SP"
 
         },
-        "delivery_method": "Moto",
+        "metodo_entrega": "Moto",
         "cnh": "cnh-digital.jpg"
 
     }
